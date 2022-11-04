@@ -4,7 +4,7 @@
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jonathanstillman&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanstillman" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://komarev.com/ghpvc/?username=jonathanstillman&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanstillman" /> </p>
 
 - 🌱 I’m currently learning **Python, C#, Java**
 
