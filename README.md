@@ -3,8 +3,6 @@
 <h3 align="center">A passionate Full-Stack Web Developer from the United States</h3>
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
-https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white
-
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jonathanstillman&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanstillman" /> </p>
 
