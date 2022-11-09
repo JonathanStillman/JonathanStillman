@@ -7,7 +7,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=jonathanstillman&label=Profile%20views&color=0e75b6&style=flat" alt="jonathanstillman" /> </p>
 
 - 🌱 I’m currently learning **Python, C# & Java**
-- 🔭 I’m currently learning more about Full-Stack Web Development
+- 🔭 I’m currently learning more about Software Engineering
 - 📫 How to reach me **jonathanstillman86@yahoo.com**
 - ⚡ Fun fact: Lord of the Rings is better than Game of Thrones 
 
