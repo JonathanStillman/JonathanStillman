@@ -18,7 +18,3 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonathanstillman&show_icons=true&locale=en&layout=compact" alt="jonathanstillman" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jonathanstillman&show_icons=true&locale=en" alt="jonathanstillman" /></p>
