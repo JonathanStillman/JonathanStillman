@@ -10,10 +10,6 @@
 - 🔭 I’m currently learning more about Software Engineering
 - ⚡ Fun fact: Lord of the Rings is better than Game of Thrones 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jonathanstillm2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonathanstillm2" height="30" width="40" /></a>
-</p>
 <a href="https://www.linkedin.com/in/jonathanstillman1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan stillman" height="30" width="40" /></a>
 </p>
 
