@@ -8,7 +8,6 @@
 
 - 🌱 I’m currently learning **Python, C#, Java & iOS Development**
 - 🔭 I’m currently learning more about Software Engineering
-- 📫 How to reach me **jonathanstillman86@yahoo.com**
 - ⚡ Fun fact: Lord of the Rings is better than Game of Thrones 
 
 <h3 align="left">Connect with me:</h3>
